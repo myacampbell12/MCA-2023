@@ -4,4 +4,4 @@
 
 [Week 2 task](week2.md)
 
-[Weeek 3 task](week3.md)
+[Week 3 task](week3.md)
