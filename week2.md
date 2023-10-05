@@ -1,6 +1,6 @@
 # Week 2 # 
 
-## Here is my piece of music: ##
+## Here is my piece of music:  ##
 
 Some aspects of my score that were not transcribed properly by the OMR engine are
 
