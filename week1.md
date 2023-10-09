@@ -1,11 +1,11 @@
-## **Week 1**
+# **Week 1**
 
-### **Task 2** 
+## **Task 2** 
 
 The theme for my dataset is the musical artist Taylor Swift.
 
 
-### **Task 3**
+## **Task 3**
 
 One challenge to working with music and music-related data is accessibility to the music.
 
