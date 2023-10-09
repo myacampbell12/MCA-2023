@@ -1,4 +1,4 @@
-# Week 2
+# Week 2 tasks
 
 ## Task 3 
 ### Here is my piece of music: [myscore.mscz](myscore.mscz) 
