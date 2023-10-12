@@ -1,8 +1,8 @@
 # Week 3 
 
-## A comparison of elements in MusicXML compared to MEI
+### A comparison of elements in MusicXML and MEI
 
-- A difference between MusicXML and MEI is that MEI represents sheet music by having two elements to the score, the "parent" and the "child", shown in the same section of code in order to represent the sense of heirarchy that sheet music possesses. However, MusicXML does not distinguish between the two but rather represents each bar as one large section.
+- MusicXML and Music Encoding Initiative (MEI) and share many similarities, both encoding music notation and both being expressed in XML. However, MEI encodes information about notation in a systematic way, unlike MusicXML. The implication of this difference is that MEI is a more suitable form of encoded music notation as it includes more specific information for analysing the piece.
 
 - A difference between MusixXML and MEI is the way in which the direction of a stem is represented. In MEI, this is shown within the chord tag before any information on that note is given - for example:
 
@@ -24,4 +24,4 @@ However in MusicXML, this is shown on its own line within the note tag, and is g
 
 The implication of this difference is that 
 
-- One similarity between MusicXML and MEI is 
+
