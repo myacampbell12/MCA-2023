@@ -23,4 +23,4 @@ The current manifestation of my chosen theme, the musical artist Taylor Swift, i
 - social media
 - concert ticket revenue
 Data related to this theme is curated by organising information from all of these different sources to create a database for analysis. However, this can be quite a complex process due to the reasons I have previously stated.
-The presentation of Taylor Swift's music-related data is approached in multiple ways 
+The presentation of Taylor Swift's music-related data is approached in multiple ways, including assessing the figures of album sales, chart performance, streaming numbers, engagement via social media, concert ticket revenue, etc. This music-related data is analysed in order to gain more understanding on Swift as an artist and her trends, demographic, popularity, and impact / reach. 
