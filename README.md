@@ -1,4 +1,3 @@
-# MCA
  <div class="navbar">
         <a class="nav-button" href="week1.md">Week 1</a>
         <a class="nav-button" href="week2.md">Week 2</a>
