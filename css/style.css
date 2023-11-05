@@ -1,8 +1,16 @@
-/* Add your own CSS rules here */
-#description {
-  margin: 0 0 1em 0;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
-tei-teiHeader {
-  display: none;
+.navbar {
+    text-align: center;
+}
+
+.nav-button {
+    display: block;
+    margin: 10px;
 }
