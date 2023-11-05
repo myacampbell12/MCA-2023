@@ -17,6 +17,6 @@ The implication of this difference is that the structure of MEI is much more det
 
 ### Clef 
 Another example of the difference between MusicXML and MEI is the way in which the clef is represented. 
-In MEI,
-In MusicXML,
-The implication of this difference is that
+In MEI, the 'clef' element contains attributes like 'shape' which indicates the note, or 'oct' for the octave of the section. The 'clef' here is the child of the 'staff' parent element, giving control over over clef timing and ay changes to it. 
+In MusicXML, the 'clef' element contains attributes like 'line' and 'octave change' which gives information on the position of the clef as well as the octave placement of the clef. The 'clef' here is the child of the 'measure' parent element, showing this clef represents the entire section. 
+The implication of this difference is that MEI provides much more flexibility over representing clef changes, which is useful for encoding music. MusicXML only offers a basic representation of the clef. 
