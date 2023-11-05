@@ -1,11 +1,11 @@
 # **Week 1**
 
-## **Task 2** 
+## **Task 2: My dataset theme** 
 
-The theme for my dataset is the musical artist Taylor Swift.
+The theme for my dataset is the musical artist Taylor Swift. The singer released her first studio album in 2006, titled 'Taylor Swift', and has most recently released her 14th studio album titled '1989 (Taylor's Version)' in October 2023. To this day, the singer-songwriter has amassed 12 Grammy Awards, 23 MTV Video Music Awards, and is the only artist to take up all top 10 spots on the Billboard Hot 100 after the release of her highly anticipated 2022 album 'Midnights'. I chose Taylor Swift as the theme for my dataset because I am a huge fan of her work, and the familiarity of which has helped me greatly to complete these tasks. 
 
 
-## **Task 3**
+## **Task 3: Challenges to working with music and music-related data **
 
 One challenge to working with music and music-related data is access. Obtaining accurate data can be difficult due to having multiple sources (such as different streaming platforms like Spotify, Apple Music, Amazon Music, etc) to gather from, as well as the lack of transparency and accuracy from these sources over figures, sales, and streaming numbers. This can make it difficult to get a proper view of an artist's reach on each platform. This relates to my theme, Taylor Swift, as she has worked with numerous music labels and streaming platforms, making it harder to gather data from all over.
 
