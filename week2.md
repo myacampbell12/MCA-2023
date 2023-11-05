@@ -1,7 +1,7 @@
 # Week 2 
 
 ## Task 3 
-### ![Here is my piece of music.](myscore.mscz) 
+### ![Here is my piece of music.](myscore.mscz)
 
 ## Task 4 
 Some aspects of my score were not transcribed properly by the OMR engine. Many pieces were comletely missing from the score such as: tie segments, pedal segments, trills, tempo information, and note dots.  We discussed this as this week's group lab as many found that the OMR engine often does not include note dots as they are small and hard to pick up via the scanner, and it sometimes does not include the tempo information as the OMR sometimes struggles to read varying fonts and notation systems. With my score, it was only two note dots that were missing and the others were picked up perfectly.
