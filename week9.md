@@ -5,7 +5,7 @@ I chose these three tracks for this analysis because they span three different g
 - 'Red (Taylor's Version' is a country piece.
 - 'cardigan' is a folk piece. 
 
-### Task 1
+### Task 1: Extract Features
 <b> Spectogram, Mel Frequency Cepstral Coefficient, and Chromagram for 'Look What You Made Me Do' 
 ![lwymmd](lwymmd.PNG)
 
@@ -15,4 +15,4 @@ I chose these three tracks for this analysis because they span three different g
 <b> Spectogram, Mel Frequency Cepstral Coefficient, and Chromagram for 'cardigan' 
 ![cardigan](cardigan.PNG)
 
-### Task 2
+### Task 2: Compute and visualise features with histograms
