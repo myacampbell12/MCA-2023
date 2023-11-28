@@ -11,7 +11,7 @@
 ## Task 2: Analysis of my 3 tracks in SonicVisualiser 
 
 Spectogram for 'Look What You Made Me Do' 
-
+! [Look what you made me do](lwymmdspectogram.PNG)
 
 Spectogram for 'Red (Taylor's Version)' 
 
