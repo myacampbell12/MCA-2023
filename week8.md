@@ -1,6 +1,6 @@
-# Week 8:
+# Week 8: Music as sound
 
-## Task 1
+## Task 1: Find and describe 3 audio tracks relating to my theme
 
 | Title                     | Artist                  | Composer                | Copyright Info        | Genre      | Source         | File/Audio Format | Number of Channels | Sample Rate | Bits per Second | Duration |
 |---------------------------|-------------------------|-------------------------|-----------------------|------------|----------------|---------------------|---------------------|-------------|------------------|----------|
