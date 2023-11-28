@@ -1,4 +1,4 @@
-# Week 4
+# Week 4: Computational analytics of notated music
 
 For this week's task, I have generated a piano roll of pitches and a pitch histogram of my piece using Music21.
 
