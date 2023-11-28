@@ -4,9 +4,9 @@
 
 ### A comparison of elements in MusicXML and MEI
 
-### MY MusicXML file:
+### Access my MusicXML file: [here](mymusicxmlfile.musicxml)
 
-### My MEI file: 
+### Access my MEI file: [here](mymeifile.mei)
 
 <b>Stem direction</b>
 
