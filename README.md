@@ -16,5 +16,5 @@
 
 ### [Week 9](week9.md)
 
-### [Week 10](weeek 10.md)
+### [Week 10](week10.md)
 
