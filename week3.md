@@ -4,6 +4,10 @@
 
 ### A comparison of elements in MusicXML and MEI
 
+### MY MusicXML file:
+
+### My MEI file: 
+
 <b>Stem direction</b>
 
 An example of the difference between MusicXML and MEI is the way in which the direction of a stem is represented. 
