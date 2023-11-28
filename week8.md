@@ -17,7 +17,7 @@
 <b> Spectogram for 'Red (Taylor's Version)' 
 ![Red](redspectogram.PNG)
 
-<b> Spectogram  for 'cardigan' 
+<b> Spectogram  for 'cardigan' </b>
 ![cardigan](cardiganspectogram.PNG)
 
-One advantage of a time-frequency analysis over a waveform-based analysis is 
+Time-frequency analysis offers many more advantages than a waveform-based analysis when looking at music curation and analytics. One example of this is that it allows a much more detailed representation of the elements of the piece of music across time and frequency simultaneously. This means that it is much more beneficial for finding small features like a tempo change or an introduction of an instrument that wasn't there before - capturing these subtle changes can provide curators with much more data. Another example of this is that time-frequency analysis is much better at capturing short events within a piece of music, such as specific beats or a new transition, or a new note, etc. This means that the piece can be analysed in a much more enhanced way, enabling music analysers to find small, hidden details that add to the piece. An example of this advantage is in the chromogram of the song 'Red (Taylor's Version)' that is pictured above, where there is a section toward the end of the song that was not present anywhere else except the beginning of the song, a subtle nuance that might not otherwise be captured. 
