@@ -1,9 +1,12 @@
-# Week 2 
+# Week 2: Notation basics
 
-## Task 3 
+## Task 2: Identofy a piece of music
+For my piece of msuic, I have chosen to use the song 'Cornelia Street' by Taylor swift from her 2019 album 'Lover'. 
+
+## Task 3: Editing 10 bars in MuseScore
 ### [Here is my piece of music.](myscore.mscz)
 
-## Task 4 
+## Task 4 : Aspects of my score that were not transcribed properly by the OMR engine
 
 <b>Some aspects of my score were not transcribed properly by the OMR engine. I have detailed these below:</b>
 
