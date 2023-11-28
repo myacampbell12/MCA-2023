@@ -7,7 +7,6 @@ Here are the metadata elements that I chose to use to describe a piece of music:
 - <b>lyricist:</b> the name of the person/people who wrote the lyrics to the piece of music
 - <b>encoder:</b> the name of the person/people that encoded the file
 - <b>date:</b> the date that the piece of music was released
-- <b>genre:</b> the genre of the piece of music
 
 ## Task 2: Modifying the MEI document
-I updated my MEI file using MEIFriend to include the metadata I described above. It can be accessed here: 
+I updated my MEI file using MEIFriend to include the metadata I described above. It can be accessed [here](WEEK9FINAL.mei)
