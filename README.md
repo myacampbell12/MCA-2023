@@ -9,3 +9,12 @@
 ### [Week 4](week4.md)
 
 ### [Week 5](week5.md)
+
+### [Week 7](week7.md)
+
+### [Week 8](week8.md)
+
+### [Week 9](week9.md)
+
+### [Week 10](weeek 10.md)
+
