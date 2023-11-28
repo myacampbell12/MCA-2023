@@ -1,8 +1,6 @@
-# Week 3 
+# Week 3: Encoding basics for notation
 
-## Task 2
-
-### A comparison of elements in MusicXML and MEI
+## Task 2: A comparison of elements in MusicXML and MEI
 
 ### Access my MusicXML file: [here](mymusicxmlfile.musicxml)
 
