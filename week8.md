@@ -8,3 +8,15 @@
 | Red (Taylor's Version)    | Taylor Swift            | Taylor Swift            | © Taylor Swift, Sony/ATV Music Publishing LLC | Country    | Album "Red (Taylor's Version)" | FLAC                | 2                 | 48000 Hz    | 24 bits          | 5:42     |
 | cardigan                  | Taylor Swift            | Taylor Swift, Aaron Dessner | © Taylor Swift, Sony/ATV Music Publishing LLC | Indie Folk | Album "folklore" | WAV                 | 2                 | 44100 Hz    | 24 bits          | 4:11     |
 
+## Task 2: Analysis of my 3 tracks in SonicVisualiser 
+
+Spectogram for 'Look What You Made Me Do' 
+
+
+Spectogram for 'Red (Taylor's Version)' 
+
+
+Spectogram  for 'cardigan' 
+
+
+One advantage of a time-frequency analysis over a waveform-based analysis is 
