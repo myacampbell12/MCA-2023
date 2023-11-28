@@ -15,4 +15,4 @@ I chose these three tracks for this analysis because they span three different g
 <b> Spectogram, Mel Frequency Cepstral Coefficient, and Chromagram for 'cardigan' 
 ![cardigan](cardigan.PNG)
 
-### Task 2: Compute and visualise features with histograms for the chromagram feature
+### Task 2: Compute and visualise features with histograms
