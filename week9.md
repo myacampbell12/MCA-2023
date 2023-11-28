@@ -6,7 +6,10 @@ I chose these three tracks for this analysis because they span three different g
 - 'cardigan' is a folk piece. 
 
 <b> Spectogram, Mel Frequency Cepstral Coefficient, and Chromagram for 'Look What You Made Me Do' 
+![lwymmd](lwymmd.PNG)
 
 <b> Spectogram, Mel Frequency Cepstral Coefficient, and Chromagram for 'Red (Taylor's Version)' 
+![red](red.PNG)
 
 <b> Spectogram, Mel Frequency Cepstral Coefficient, and Chromagram for 'cardigan' 
+![cardigan](cardigan.PNG)
