@@ -8,3 +8,6 @@ It can be accessed [here](WEEK9FINALcopy.mei)
 The HTML page can be accessed here: [here](metaRAW.html)
 
 Here are ways in which I would format the metadata to make it look nicer:
+- I would use CSS to change the font style and size for the title of the song in order to make it stand out from the rest of the metadata. I would do this as the title is the most important piece of information and I would like it to be clearly shown.
+- I would also use CSS to put the name of the artist and producers in italics and bold, as thee are what I believe to be the second most important pieces of metadata, and I would like them to stand out from the rest of the metadata.
+- I would also ensure the structure of the HTML was formatted in a way that presents the information in an organised, structured, concise way. I would do this to ensure that the metadata was able to be read in a simple way, and because it makes the MEI header look much more organised and vsually appealing.
