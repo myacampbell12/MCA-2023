@@ -4,6 +4,8 @@
 I added genre classifications and specific licensing data to my MEI file.
 It can be accessed [here](WEEK9FINALcopy.mei)
 
+I chose to add these metadata elements as I believe them to be the most important pieces of information when looking at a piece of music. The work that goes into a song with its performer, songwriters, lyricists, producers, genre, and licensing - are all integral to what makes the piece itself. 
+
 ## Task 2: Rendering MEI metadata onto an HTML page
 The HTML page can be accessed here: [here](metaRAW.html)
 
