@@ -2,7 +2,7 @@
 
 I chose these three tracks for this analysis because they span three different genres, and therefore have different sounds which allows me to compare and analyse them whilst still keeping with the theme.
 - 'Look What You Made Me do' is a dark dance-pop piece.
-- 'Red (Taylor's Version' is a country piece.
+- 'Red (Taylor's Version)' is a country piece.
 - 'cardigan' is a folk piece. 
 
 ## Task 1: Extract Features
