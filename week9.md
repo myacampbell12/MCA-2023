@@ -26,3 +26,7 @@ Histogram for 'Red (Taylor's Version)'
 Histogram for 'cardigan'
 ![cardigan](cardigan_analysis.png)
 
+By looking at the Chroma feature, I can see many significant differences between the tracks that I had anticipated after listening to each track:
+- One difference is
+- Another difference is
+- A final difference is
