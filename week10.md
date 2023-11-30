@@ -3,6 +3,8 @@
 ## Task 1: Similarity
 Here is the visualisation of the similarity matrix
 
+![similarity](similarity.png)
+
 ## Task 2: Transcription
 
 This is my original score
