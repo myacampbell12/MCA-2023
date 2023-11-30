@@ -4,7 +4,9 @@
 For my piece of msuic, I have chosen to use the song 'Cornelia Street' by Taylor swift from her 2019 album 'Lover'. 
 
 ## Task 3: Editing 10 bars in MuseScore
-### [Here is my piece of music.](myscore.mscz)
+Here is a PDF of my score which can be accessed [here](week2task-musescore.pdf)
+
+It can also be accessed via MuseScore [here](myscore.mscz)
 
 ## Task 4 : Aspects of my score that were not transcribed properly by the OMR engine
 
