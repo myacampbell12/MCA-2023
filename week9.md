@@ -16,3 +16,13 @@ I chose these three tracks for this analysis because they span three different g
 ![cardigan](cardigan.PNG)
 
 ### Task 2: Compute and visualise features with histograms
+
+<b> Histogram for 'Look What You Made Me Do'
+![lwymmd](lwymmd_analysis.png)
+
+Histogram for 'Red (Taylor's Version)'
+![red](red_analysis.png)
+
+Histogram for 'cardigan'
+![cardigan](cardigan_analysis.png)
+
