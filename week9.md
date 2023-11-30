@@ -17,16 +17,16 @@ I chose these three tracks for this analysis because they span three different g
 
 ### Task 2: Compute and visualise features with histograms
 
-<b> Histogram for 'Look What You Made Me Do'
+<b> Chromagram Histogram for 'Look What You Made Me Do' 
 ![lwymmd](lwymmd_analysis.png)
 
-Histogram for 'Red (Taylor's Version)'
+<b> Chromagram Histogram for 'Red (Taylor's Version)' 
 ![red](red_analysis.png)
 
-Histogram for 'cardigan'
+<b> Chromagram Histogram for 'cardigan' 
 ![cardigan](cardigan_analysis.png)
 
-By looking at the Chroma feature, I can see many significant differences between the tracks that I had anticipated after listening to each track:
-- One difference is
-- Another difference is
-- A final difference is
+<i> By looking at the Chroma feature, I can see many significant differences between the tracks that I had anticipated after listening to each track:
+- One difference is 
+- Another difference is 
+- A final difference is 
