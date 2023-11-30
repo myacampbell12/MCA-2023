@@ -1,7 +1,7 @@
 # Week 2: Notation basics
 
 ## Task 2: Identify a piece of music
-For my piece of msuic, I have chosen to use the song 'Cornelia Street' by Taylor swift from her 2019 album 'Lover'. 
+For my piece of music, I have chosen to use the song 'Cornelia Street' by Taylor swift from her 2019 album 'Lover'. 
 
 ## Task 3: Editing 10 bars in MuseScore
 Here is a PDF of my score which can be accessed [here](week2task-musescore.pdf)
